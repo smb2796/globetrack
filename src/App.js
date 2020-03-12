@@ -60,7 +60,8 @@ function App() {
       <Navbar />
       <Globe 
         globeImageUrl="//unpkg.com/three-globe/example/img/earth-night.jpg"
-        backgroundColor="rgba(255, 0, 0, 0)"
+      bumpImageUrl="//unpkg.com/three-globe/example/img/earth-topology.png"
+      backgroundImageUrl="//unpkg.com/three-globe/example/img/night-sky.png"
       />
       <InteractiveGlobe />
       <InformationPlaque />
