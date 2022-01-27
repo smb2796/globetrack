@@ -15,7 +15,7 @@
     "react-particles-js": "^2.7.1",
     "react-scripts": "3.4.0",
     "tachyons": "^4.11.1",
-    "three": "^0.114.0",
+    "three": "^0.137.0",
     "react-tilt": "^0.1.4"
   },
   "scripts": {
